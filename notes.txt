@@ -1,0 +1,2 @@
+How to install specific Angular version locally and generate a new project
+npx -p @angular/cli@19.0.6 ng new frontend
